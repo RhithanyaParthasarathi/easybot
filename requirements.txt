@@ -1,0 +1,9 @@
+# requirements.txt
+
+langchain-google-genai
+langgraph
+fastapi
+uvicorn[standard]
+python-dotenv
+requests
+pydantic
